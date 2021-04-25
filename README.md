@@ -25,8 +25,8 @@ At the same time, as I was leading the transformation in this digital era, I've 
 
 The videos that I've made by my own (my own voice in the Audio was recorded using ProTools and the videos that I've captured by my own and sequenced using Final Cut Pro):
 
-1.App Prospera Tansformation.mp4
-2.Accounting Transformation - Qlik - 1st part.mp4
-3.Accounting Transformation - Qlik - 2nd part.mp4
+1. App Prospera Tansformation.mp4
+2. Accounting Transformation - Qlik - 1st part.mp4
+3. Accounting Transformation - Qlik - 2nd part.mp4
 
 Nowadays I'm working in another new transformation project.
