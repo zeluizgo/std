@@ -17,14 +17,16 @@ At 2020 - In microfinance area, I've lead two agile teams which brought the App 
 The py files are samples of codes that I did to sumarize all the assets information, i separete these because they are good samples of object oriented code in python:
 1. managerPagamentos.py
 2. main.py (the Helper Classes that it uses i though not necessary to bring here).
+
 Here is the print Screen for this report:
 ![Accounting Report](https://github.com/zeluizgo/std/blob/main/Pagamentos.png)
 
 At the same time, as I was leading the transformation in this digital era, I've made some videos to better comunicate the new changes to the sales teams.
 
 The videos that I've made by my own (my own voice in the Audio was recorded using ProTools and the videos that I've captured by my own and sequenced using Final Cut Pro):
+
 1.App Prospera Tansformation.mp4
-2./Accounting Transformation - Qlik - 1st part.mp4
+2.Accounting Transformation - Qlik - 1st part.mp4
 3.Accounting Transformation - Qlik - 2nd part.mp4
 
 Nowadays I'm working in another new transformation project.
